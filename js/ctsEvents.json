@@ -91,8 +91,12 @@
     { "date": "2018-04-19", "title": "End of Term Exams End", "title2": "School Closes", "time2": "14:00" },
     
     
-    { "date": "2018-05-14", "title": "School Opens - Term 2, 2018", "time": "10:00"}
-      
-  
+    { "date": "2019-01-09", "title": "School Opens - Term 1, 2019", "time": "10:00","location": "Chalo Trust School", "title2" :"Open Day", "location2" : "Dining Hall", "time2": "14:00"},
+    { "date": "2019-01-10", "title": "Classes Commence", "time": "7:20", "location":"CTS - Classrooms"},
+    { "date": "2019-02-02", "title": "Visiting Weekend", "time": "12:00", "location": "Sports Field"},
+    { "date": "2019-02-14", "title": "Midterm Break Begins", "time": "14:00"},
+    { "date": "2019-02-24", "title": "Midterm Break Ends","time" : "10:00"},
+    { "date": "2019-04-04", "title": "School Closes - End of Term 1", "time": "14:00"},
+    { "date": "2019-05-06", "title": "School Opens - Term 2, 2019", "time": "10:00"}    
   ]
 }

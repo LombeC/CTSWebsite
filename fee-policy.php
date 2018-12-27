@@ -21,7 +21,8 @@
     <div class="infoAreaRightDiv">
          <h5 style="text-align:center">Payment Policy</h5>
             <ol>
-                <li>Students are required to pay a minimum of 70% of the total fees on or before reporting date.</li>
+                <li>New students are required to pay a minimum of 80% of the total fees on or before a confirmation of enrolment and allocation of desk and bed in school</li>
+                <li>Returning students are required to pay a minimum of 70% of the total fees on or before reporting date.</li>
                 <li>Pupils will NOT be allowed into the school without the aforementioned payment and negotiations will not be allowed.</li>
                 <li>The remaining 30% is required on or before the commencement of the following half term..</li>
                 <li>A penalty fee of K 300.00 will be charged on overdue accounts and will reflect in the subsequent bills if not settled on demand</li>
@@ -55,7 +56,7 @@
                 FIRST NATIONAL BANK (FNB): Chalo Trust School:  A/C #:0062433797836 (Manda Hill Branch)<br>
                 Swift Code: FIRNZMLX<br><br>
 
-                STANBIC BANK: Chalo Trust School:  A/C #:0140031910901 (Mulungushi Branch)<br>
+                STANBIC BANK: Chalo Trust School:  A/C #:9130001813009 (Mulungushi Branch)<br>
                 Swift Code: SBICZMLX<br><br>
                     
                 A Card Machine is available for visa or mastercard payments through swiping (An admin fee of 2% will apply to all payments made via this method)<br>

@@ -496,7 +496,7 @@ a {
     height: auto;
     width: 100%;
     position: relative;
-        max-width: 100%;
+    max-width: 100%;
     border-top: 1px solid #ab0000;
     border-bottom: 1px solid #9a0000;
 
@@ -1058,12 +1058,18 @@ a {
 
     nav {  
         margin: 0px;
-        display: block;
-        
-/*         height: 200px;*/
-         
+        display: block;  
+        margin: 0px;
+        position: relative;
+        z-index: 200;
+        width: 100%;
     }
 
+    .stickyNav {
+      position:fixed;
+      top:0;
+    }
+    
     /*Sets the nav bar in a horizontal manner. Hides the pointers for the list and ensures there's no scroll bar*/
     nav ul { 
     display: -webkit-flex;
@@ -1147,7 +1153,7 @@ a {
     min-width: 160px;
     border-bottom: 0.5px solid deepskyblue;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 11;
+    z-index: 201;
     }
 
     /* Deals with level 2 submenus. Determines how and where they appear */
@@ -1442,24 +1448,30 @@ a {
     }
 
 
-        .leftSliderOverlay, .rightSliderOverlay {
-          position: absolute;
-          width: 6%;
-          top: 0;
-          bottom: 0;
-          background: white;
-          opacity: 0.9;
-            z-index: 1;
-           box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
-        }
+    .sliderNewsItem img{
+      width: 100%;
+      height: auto;
+    }
 
-        .rightSliderOverlay {
-          right: 0;
-        }
-    
-        .leftSliderOverlay {
-            left: 0;
-        }
+
+    .leftSliderOverlay, .rightSliderOverlay {
+      position: absolute;
+      width: 6%;
+      top: 0;
+      bottom: 0;
+      background: white;
+      opacity: 0.9;
+        z-index: 1;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    }
+
+    .rightSliderOverlay {
+      right: 0;
+    }
+
+    .leftSliderOverlay {
+        left: 0;
+    }
     @media screen and (max-width: 500px){
         
         .sliderNewsItem img{
@@ -1513,10 +1525,10 @@ a {
         }
     }
 .indexContainer {
-width: 100%;
-margin: auto;
-min-height: 450px;
-height: auto;
+  width: 100%;
+  margin: auto;
+  min-height: 450px;
+  height: auto;
 }
 
 
@@ -2411,7 +2423,7 @@ color: white;
     display: block;
     top: 50%;
     height: 32px;
-    background-image: urllibs/lightslider/img/controls.png');
+    background-image: ('urllibs/lightslider/img/controls.png');
     cursor: pointer;
     position: absolute;
     z-index: 99;
@@ -3645,16 +3657,15 @@ color: white;
 
     /* Styles the image which appears at the top of the pages */
     .pagetopimgdiv {
-    width: 95%;
-    margin: auto;
-    margin-bottom: 10px;
+      width: 95%;
+      margin: auto;
+      margin-bottom: 10px;
     }
 
 
     .pagetopimgdiv img{
-    width: 100%;
-    height: auto;
-
+      width: 100%;
+      height: auto;
     }
 @media screen and (max-width: 768px){
      .pagetopimgdiv {

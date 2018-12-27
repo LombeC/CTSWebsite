@@ -28,7 +28,7 @@
 	?>
     
     <meta name="author" content="Lombe Chileshe"> 
-    <base href="/" />
+    <!-- <base href="/" /> -->
     <link rel="stylesheet" style="text/css" href="css/style.css">
     <?php 
         $photoswipeCSS1 = '<link rel="stylesheet" href="css/photoswipe.css">';

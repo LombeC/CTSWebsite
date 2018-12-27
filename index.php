@@ -80,8 +80,8 @@
 			</div>
 			<div class="flexContainerBoxTextBox">
 				<ul>
-					<li>Cambridge IGCSE & GCEs</li>
-					<li>10+ Years of Premier Education</li>
+					<li>Cambridge IGCSE</li>
+					<li>15 Years of Premier Education</li>
 					<li>Valuable Resources for Students</li>
 					<li>Student Oriented Learning</li>
 					<li>Excellent Teaching Staff</li>
@@ -371,7 +371,7 @@
 				<p>The <a href="http://www.kucetekelafoundation.org/" target="_blank">Kucetekela Foundation</a> is a non-profit organization which provides scholarships to Zambian boys and girls who are academically promising but financially disadvantaged to attend excellent secondary schools like Chalo. This scholarship, combined with a system of mentoring, will endow the children with outstanding education and guidance which will empower them to contribute and compete successfully in life.</p>
 				<p>KF and Chalo have a partnership which sees KF sponsor an average of 15-20 students to attend Chalo every year. Through this generous initiative, KF have impacted hundreds of students’ lives and hope to impact millions more. Numerous people have given towards this cause, and today we ask that you, too, help make this possible.</p>
 			</div>
-			<div> <a href="http://www.kucetekelafoundation.org/donate.html" class="giveNowButton goldButton" target="_blank">Give Now</a>
+			<div> <a href="http://kucetekelafoundation.org/donate/" class="giveNowButton goldButton" target="_blank">Give Now</a>
 			</div>
 		</div>
 		<div class="clear"></div>

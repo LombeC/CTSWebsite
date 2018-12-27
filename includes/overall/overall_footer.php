@@ -4,7 +4,7 @@
     <script src="libs/lightslider/js/lightslider.min.js"></script>
     <script src="js/animatescroll.min.js"></script>
     <script src="https://cdn.jsdelivr.net/jquery.typeit/4.4.0/typeit.min.js"></script> 
-    <script src="js/ctsAnimations.min.js"></script>
+    <script src="js/ctsAnimations.js"></script>
     <script src="js/moment.min.js" type="text/javascript"></script> 
     <script src="js/underscore-min.js" type="text/javascript"></script>
     <script src="js/clndr.min.js" type="text/javascript"></script>

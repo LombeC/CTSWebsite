@@ -6,7 +6,7 @@
     include 'includes/overall/overall_header.php';
 ?>
 <div class="mainContent">
-            <h1 id="top"><?php echo date('Y');?> Primary School Fees</h1>
+            <h1 id="top"><?php echo date('Y', strtotime('+1 year'));?> Primary School Fees</h1>
     <div class="pagetopimgdiv">
         <img src="images/header5.jpg" alt="Header Image" style="margin:auto; display: block;">
     </div>
@@ -108,17 +108,17 @@
               </tr>
               <tr>
                 <td>Enrolment</td>
-                <td>K1,500.00</td>
+                <td>K550.00</td>
 
               </tr>
               <tr>
                 <td>School Fees (per Term)</td>
-                <td>K7,000.00</td>
+                <td>K7,500.00</td>
 
               </tr>
               <tr>
                 <td class="totalFees">Total</td>
-                <td class="totalFees">K8,550.00</td>
+                <td class="totalFees">K8,100.00</td>
               </tr>
             </table>
 
@@ -134,12 +134,12 @@
               </tr>
               <tr>
                 <td>School Fees (per Term)</td>
-                <td>K7,000.00</td>
+                <td>K7,500.00</td>
 
               </tr>
               <tr>
                 <td class="totalFees">Total</td>
-                <td class="totalFees">K7,000.00</td>
+                <td class="totalFees">K7,500.00</td>
               </tr>
             </table>
 
@@ -160,17 +160,17 @@
               </tr>
               <tr>
                 <td>Enrolment</td>
-                <td>K1,500.00</td>
+                <td>K650.00</td>
 
               </tr>
               <tr>
                 <td>School Fees (per Term)</td>
-                <td>K8,500.00</td>
+                <td>K8,950.00</td>
 
               </tr>
               <tr>
                 <td class="totalFees">Total</td>
-                <td class="totalFees">K10,050.00</td>
+                <td class="totalFees">K9,650.00</td>
               </tr>
 
             </table>
@@ -187,12 +187,12 @@
               </tr>
               <tr>
                 <td>School Fees (per Term)</td>
-                <td>K8,500.00</td>
+                <td>K8,950.00</td>
 
               </tr>
               <tr>
                 <td class="totalFees">Total</td>
-                <td class="totalFees">K8,500.00</td>
+                <td class="totalFees">K8,950.00</td>
               </tr>
             </table>
 
@@ -213,12 +213,12 @@
               </tr>
             <tr>
                 <td>Uniform Set (Boys)</td>
-                <td>K630.00</td>
+                <td>K710.00</td>
 
               </tr>
             <tr>
                 <td>Uniform Set (Girls)</td>
-                <td>K590.00</td>
+                <td>K660.00</td>
 
               </tr>    
 
@@ -244,17 +244,17 @@
               </tr>
               <tr>
                 <td>Enrolment</td>
-                <td>K500.00</td>
+                <td>K550.00</td>
 
               </tr>
               <tr>
                 <td>School Fees (per Term)</td>
-                <td>K3,500.00</td>
+                <td>K3,700.00</td>
 
               </tr>
               <tr>
                 <td class="totalFees">Total</td>
-                <td class="totalFees">K4.050.00</td>
+                <td class="totalFees">K4.300.00</td>
               </tr>
 
             </table>
@@ -272,12 +272,12 @@
 
               <tr>
                 <td>School Fees (per Term)</td>
-                <td>K3,500.00</td>
+                <td>K3,700.00</td>
 
               </tr>
               <tr>
                 <td class="totalFees">Total</td>
-                <td class="totalFees">K3,500.00</td>
+                <td class="totalFees">K3,700.00</td>
               </tr>
 
             </table>
@@ -299,17 +299,17 @@
               </tr>
               <tr>
                 <td>Enrolment</td>
-                <td>K500.00</td>
+                <td>K550.00</td>
 
               </tr>
               <tr>
                 <td>School Fees (per Term)</td>
-                <td>K4,600.00</td>
+                <td>K4,800.00</td>
 
               </tr>
               <tr>
                 <td class="totalFees">Total</td>
-                <td class="totalFees">K5,150.00</td>
+                <td class="totalFees">K5,400.00</td>
               </tr>
             </table>
 
@@ -325,12 +325,12 @@
               </tr>
               <tr>
                 <td>School Fees (per Term)</td>
-                <td>K4,600.00</td>
+                <td>K4,800.00</td>
 
               </tr>
               <tr>
                 <td class="totalFees">Total</td>
-                <td class="totalFees">K4,600.00</td>
+                <td class="totalFees">K4,800.00</td>
               </tr>
             </table>
 
@@ -351,17 +351,17 @@
               </tr>
               <tr>
                 <td>Enrolment</td>
-                <td>K500.00</td>
+                <td>K650.00</td>
 
               </tr>
               <tr>
                 <td>School Fees (per Term)</td>
-                <td>K4,950.00</td>
+                <td>K5,550.00</td>
 
               </tr>
               <tr>
                 <td class="totalFees">Total</td>
-                <td class="totalFees">K5,500.00</td>
+                <td class="totalFees">K6,250.00</td>
               </tr>
 
             </table>
@@ -378,12 +378,12 @@
               </tr>
               <tr>
                 <td>School Fees (per Term)</td>
-                <td>K4,950.00</td>
+                <td>K5,550.00</td>
 
               </tr>
               <tr>
                 <td class="totalFees">Total</td>
-                <td class="totalFees">K4,950.00</td>
+                <td class="totalFees">K5,550.00</td>
               </tr>
             </table>
 
@@ -404,23 +404,23 @@
               </tr>
             <tr>
                 <td>Uniform Set (Boys)</td>
-                <td>K630.00</td>
+                <td>K710.00</td>
 
               </tr>
             <tr>
                 <td>Uniform Set (Girls)</td>
-                <td>K590.00</td>
+                <td>K660.00</td>
 
               </tr>
 
             <tr>
                 <td>Transport (Optional))</td>
-                <td>K1,200.00</td>
+                <td>K1,550.00</td>
 
               </tr>
             <tr>
                 <td>Lunch & Tea Break (Optional)</td>
-                <td>K1,200.00</td>
+                <td>K1,250.00</td>
 
               </tr>
 

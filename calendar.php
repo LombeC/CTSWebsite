@@ -25,7 +25,7 @@
                         <i class="fa fa-envelope-o" aria-hidden="true"></i> director@chalotrustschool.com
                     </a>
                 </li>
-                <li><span class="bluename"><?php echo $principal_name ?>own<br></span>
+                <li><span class="bluename"><?php echo $principal_name ?><br></span>
                     School Principal <br>
                     <a href="mailto:principal@chalotrustschool.com" target="_top"><i class="fa fa-envelope-o" aria-hidden="true"></i> principal@chalotrustschool.com</a>
                 </li>
@@ -168,7 +168,7 @@
             </div>
             <div class="clear"></div>
             <div class="calendarListForm" id="cts-clndr2">
-               <table class="calendarListTable" id="term3Calendar">
+               <!-- <table class="calendarListTable" id="term3Calendar">
                     
                         <tr>
                             <th colspan="3" scope="col"> 2018 Term 1</th>
@@ -359,7 +359,7 @@
                             <td style="width: 15%;">10:00</td>
                         </tr>                
 
-                </table>
+                </table> -->
                 
             </div>
     

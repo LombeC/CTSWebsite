@@ -87,7 +87,7 @@ RewriteRule (.*)$ /$1/ [R=301,L]
 # (as it appears on your SSL certificate)
 RewriteEngine On
 RewriteCond %{SERVER_PORT} 80
-RewriteRule ^(.*)$ https://www.chalotrustschool.com/$1 [R=301,L]
+#RewriteRule ^(.*)$ https://www.chalotrustschool.com/$1 [R=301,L]
 
 ###to be put on the production site to enable cache-control
 ## One year for image files

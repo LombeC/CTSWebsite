@@ -6,7 +6,7 @@
     include 'includes/overall/overall_header.php';
 ?>
 <div class="mainContent">
-    <h1 id="top"><?php echo date('Y');?> Secondary School Fees</h1>
+    <h1 id="top"><?php echo date('Y', strtotime("+1 year"));?> Secondary School Fees</h1>
     
     <div class="pagetopimgdiv">
         <img src="images/header3.jpg" alt="Header Image" style="margin:auto; display: block;">
@@ -114,12 +114,12 @@
       </tr>
       <tr>
         <td>School Fees (per Term)</td>
-        <td>K11,500.00</td>
+        <td>K12,000.00</td>
 
       </tr>
       <tr>
         <td class="totalFees">Total</td>
-        <td class="totalFees">K13,050.00</td>
+        <td class="totalFees">K13,550.00</td>
       </tr>
      
     </table>
@@ -136,12 +136,12 @@
       </tr>
       <tr>
         <td>School Fees (per Term)</td>
-        <td>K11,500.00</td>
+        <td>K12,000.00</td>
 
       </tr>
       <tr>
         <td class="totalFees">Total</td>
-        <td class="totalFees">K11,500.00</td>
+        <td class="totalFees">K12,000.00</td>
       </tr>
     </table>
 
@@ -167,12 +167,12 @@
       </tr>
       <tr>
         <td>School Fees (per Term)</td>
-        <td>K12,500.00</td>
+        <td>K13,000.00</td>
 
       </tr>
       <tr>
         <td class="totalFees">Total</td>
-        <td class="totalFees">K14,050.00</td>
+        <td class="totalFees">K14,550.00</td>
       </tr>
      
     </table>
@@ -189,12 +189,12 @@
       </tr>
       <tr>
         <td>School Fees (per Term)</td>
-        <td>K12,500.00</td>
+        <td>K13,000.00</td>
 
       </tr>
       <tr>
         <td class="totalFees">Total</td>
-        <td class="totalFees">K12,500.00</td>
+        <td class="totalFees">K13,000.00</td>
       </tr>
     </table>
 
@@ -215,12 +215,12 @@
       </tr>
     <tr>
         <td>Uniform Set (Boys)</td>
-        <td>K1,300.00</td>
+        <td>K1,440.00</td>
 
       </tr>
         <tr>
         <td>Uniform Set (Girls)</td>
-        <td>K1,460.00</td>
+        <td>K1,620.00</td>
 
       </tr>
     
@@ -246,17 +246,17 @@
       </tr>
       <tr>
         <td>Enrolment</td>
-        <td>K700.00</td>
+        <td>K1,500.00</td>
 
       </tr>
       <tr>
         <td>School Fees |per Term</td>
-        <td>K5,750.00</td>
+        <td>K6,550.00</td>
 
       </tr>
       <tr>
         <td class="totalFees">Total</td>
-        <td class="totalFees">K6,500.00</td>
+        <td class="totalFees">K8,100.00</td>
       </tr>
      
     </table>
@@ -273,12 +273,12 @@
       </tr>
       <tr>
         <td>School Fees (per Term)</td>
-        <td>K5,750.00</td>
+        <td>K6,550.00</td>
 
       </tr>
       <tr>
         <td class="totalFees">Total</td>
-        <td class="totalFees">K5,750.00</td>
+        <td class="totalFees">K6,550.00</td>
       </tr>
     </table>
 
@@ -299,17 +299,17 @@
       </tr>
       <tr>
         <td>Enrolment</td>
-        <td>K700.00</td>
+        <td>K1,500.00</td>
 
       </tr>
       <tr>
         <td>School Fees |per Term</td>
-        <td>K6,150.00</td>
+        <td>K6,400.00</td>
 
       </tr>
       <tr>
         <td class="totalFees">Total</td>
-        <td class="totalFees">K6,900.00</td>
+        <td class="totalFees">K7,950.00</td>
       </tr>
      
     </table>
@@ -326,12 +326,12 @@
       </tr>
       <tr>
         <td>School Fees (per Term)</td>
-        <td>K6,150.00</td>
+        <td>K6,400.00</td>
 
       </tr>
       <tr>
         <td class="totalFees">Total</td>
-        <td class="totalFees">K6,150.00</td>
+        <td class="totalFees">K6,400.00</td>
       </tr>
     </table>
 
@@ -352,23 +352,23 @@
       </tr>
     <tr>
         <td>Uniform Set (Boys)</td>
-        <td>K1,300.00</td>
+        <td>K1,440.00</td>
 
       </tr>
     <tr>
         <td>Uniform Set (Girls)</td>
-        <td>K1,460.00</td>
+        <td>K1,620.00</td>
 
       </tr>
         
     <tr>
         <td>Transport (Optional))</td>
-        <td>K1,200.00</td>
+        <td>K1,550.00</td>
 
       </tr>
     <tr>
         <td>Lunch & Tea Break (Optional)</td>
-        <td>K1,200.00</td>
+        <td>K1,250.00</td>
 
       </tr>
     

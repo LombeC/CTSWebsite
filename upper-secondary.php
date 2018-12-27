@@ -67,12 +67,11 @@
 
         The upper school curriculum is designed to be an engaging experience that intentionally integrates many of the same demands and opportunities that students will find in college. Upper school students take core academic requirements, but also have several opportunities to direct their own education through courses of their choosing. After the first year of college, many of our alumni report that the workload at Chalo prepared them well, allowing them to excel academically, and inspiring them to take advantage of the co-curricular opportunities that abound in college. <br><br>
 
-        From Grade 10 to Grade 12, the aim of our curriculum is to prepare our students for pre-university and university education. We introduce them to an even wider range of subjects which serve the purpose of creating a foundation for any student hoping to get into any university in the world.  At this level, we offer two distinct syllabuses, both provided by <a href="https://www.cam.ac.uk/" target="_blank" title="Go to the Cambridge University Website">Cambridge University</a> through <a href="http://www.cie.org.uk/" target="_blank" title="Go to the CIE Website">Cambridge International Examinations(CIE).</a> These programs allow students to go to any university in the world and gives them a competitive advantage when it comes to getting accepted to many foreign universities. The two syllabuses are: 
+        From Grade 10 to Grade 12, the aim of our curriculum is to prepare our students for pre-university and university education. We introduce them to an even wider range of subjects which serve the purpose of creating a foundation for any student hoping to get into any university in the world.  At this level, we offer the International General Certificate of Secondary Education (IGCSE) which is provided by <a href="https://www.cam.ac.uk/" target="_blank" title="Go to the Cambridge University Website">Cambridge University</a> through <a href="http://www.cie.org.uk/" target="_blank" title="Go to the CIE Website">Cambridge International Examinations(CIE).</a> This program allows students to go to any university in the world and gives them a competitive advantage when it comes to getting accepted to many foreign universities.
         <ul>
-            <li><a href="http://www.cie.org.uk/programmes-and-qualifications/cambridge-secondary-2/cambridge-o-level/" target="_blank">Cambridge O Level</a></li>
-            <span>Cambridge O Level is an internationally recognised qualification equivalent to Cambridge IGCSE as well as the Zambian General Certificate of Education. In other jurisdictions, it is known as the 'General Certificate of Education: Ordinary Level'. It provides learners with excellent preparation for advanced education as well as other progression routes. Due to its equivalence with the Zambian GCE, it makes it relatively easy for students who might wish to enter the University of Zambia and other Zambian higher learning institutions.</span>
             <li><a href="http://www.cie.org.uk/programmes-and-qualifications/cambridge-secondary-2/cambridge-igcse/" target="_blank">Cambridge International General Certificate of Secondary Education (IGCSE)</a></li>
-            <span>Cambridge IGCSE is the world’s most popular international qualification for 14 to 16 year olds. It is recognised by leading universities and employers worldwide, and is an international passport to progression and success. Developed over 25 years ago, it is tried, tested and trusted by schools worldwide. </span>
+                <span>Cambridge IGCSE is the world’s most popular international qualification for 14 to 16 year olds. It is recognised by leading universities and employers worldwide, and is an international passport to progression and success. Developed over 25 years ago, it is tried, tested and trusted by schools worldwide. </span>
+            </li>
         </ul>
         <div class="generalImageWholeDiv">
             <img src="images/cambridge.png" alt="cambridge" width="100%" height="auto" style="display:block; margin:auto;">
@@ -92,7 +91,7 @@ The main objectives of the Upper Secondary Section are:
         </ol>
         <br>    
         
-          At this level pupils are required to take a minimum of 8 examinable subjects and at least 1 non-examinable subject. We have 2 different streams, the O Level Stream and the IGCSE stream. The following are the subjects we offer at this level: <br>
+          At this level pupils are required to take a minimum of 8 examinable subjects and at least 1 non-examinable subject. The following are the subjects we offer at this level: <br>
                     <ol>
                         <h6>COMPULSORY SUBJECTS (Examinable)</h6>
                         

@@ -5,6 +5,25 @@
  * ============================================== */
 
 
+//  // Makes the sticky navbar at the top of every page.
+// //The navbar sticks after you've scrolled past the header
+// $(document).ready(function() {
+//     var navBar = $("#myTopnav");
+//     stickyDiv = "stickyNav";
+//     headerHeight = $('#schoolHeader').height();
+//     headerHeight = 230;
+//     console.log(headerHeight);
+  
+//     //JQuery provides a very handy and succint scroll functionality. ScrollTop checks how far a user has scrolled 
+//     //from the top of the page
+//     $(window).scroll(function(){
+//       if ($(this).scrollTop() > headerHeight){
+//         navBar.addClass(stickyDiv);
+//       } else {
+//         navBar.removeClass(stickyDiv);
+//       }
+//     });
+//   });
 
 // Typing effect on home page
 $('#introTypeIt').typeIt({
